@@ -21,4 +21,7 @@ A bash script to install Tiny Media Manager on Linux systems. Installs to `/opt`
 
 1. Make the script executable:
    ```bash
-   chmod +x install-tmm.sh
+   chmod +x install.sh
+2. Then Execute
+   ```bash
+   sudo .install.sh
