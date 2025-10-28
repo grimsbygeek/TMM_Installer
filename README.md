@@ -9,7 +9,7 @@ A bash script to install Tiny Media Manager on Linux systems. Installs to `/opt`
 - Creates desktop shortcut for all users
 - Adds command-line access via `tinyMediaManager` and `tmm` commands
 - Sets proper permissions for multi-user access
-- Supports ARM64 architecture
+- Supports AMD64/ARM64 architecture
 
 ## Requirements
 
