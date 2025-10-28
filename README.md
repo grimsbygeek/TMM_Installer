@@ -24,4 +24,12 @@ A bash script to install Tiny Media Manager on Linux systems. Installs to `/opt`
    chmod +x install.sh
 2. Then Execute
    ```bash
-   sudo .install.sh
+   sudo ./install.sh
+
+
+## ☕ Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/grimsbygeek" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" />
+  </a>
+</p>
