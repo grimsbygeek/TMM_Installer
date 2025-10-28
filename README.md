@@ -2,6 +2,7 @@
 
 A bash script to install Tiny Media Manager on Linux systems. Installs to `/opt` and creates a start menu shortcut accessible by all users.
 
+**** Test on Linux Mint 22.2****
 ## Features
 
 - Installs Tiny Media Manager to `/opt/tinyMediaManager`
